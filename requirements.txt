@@ -1,0 +1,6 @@
+Flask==2.3.3
+deezspot==1.6
+librespot
+requests
+urllib3
+Werkzeug==2.3.7
